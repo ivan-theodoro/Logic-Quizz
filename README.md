@@ -1,0 +1,2 @@
+# Logic Quizz
+ Python Exercises
